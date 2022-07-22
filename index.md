@@ -20,6 +20,7 @@ calculus, and basic probability and statistics. Experience with Python will be
 helpful, but not required.
 
 Topics to be discussed in this workshop include:
+
 * Formulating optimization problems
 * Fundamentals of constrained and unconstrained optimization
 * Convex optimization
