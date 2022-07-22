@@ -20,19 +20,20 @@ website](https://icme.stanford.edu/).
 
 ## About the Instructor
 
-TODO(instructor): create a profile photo in two steps.
+![Kevin Carlberg](/assets/img/profile.jpg){:style="max-width:30%;"}
 
-  * Replace "instructor-name" in the image below with your name (note: this link
-is only visible in the raw-text file; on the web-page itself you'll simply see a
-sticky note with "To Do" written on it).
-  * Move the image you would like to appear on your website into the 
-    following folder contained in your website's working directory
-    ```
-    /assets/img/profile.jpg
-    ```
-![instructor-name](/assets/img/profile.jpg){:style="max-width:30%;"}
-
-TODO(instructor): insert a description about yourself here!
+[Kevin Carlberg](kevintcarlberg.net) is an AI Research Science Manager at Meta
+Reality Labs and an Affiliate Associate Professor of Applied Mathematics and
+Mechanical Engineering at the University of Washington. He leads a research
+team focused on enabling the future of augmented and virtual reality through
+AI-driven innovations. His individual research combines concepts from machine
+learning, computational physics, and high-performance computing to drastically
+reduce the cost of simulating nonlinear dynamical systems at extreme scale.
+Previously, Kevin was a Distinguished Member of Technical Staff at Sandia
+National Laboratories in Livermore, California, where he led a research group
+of PhD students, postdocs, and technical staff in applying these techniques to
+a range of national-security applications in mechanical and aerospace
+engineering.
 
 # Workshop Materials
 
