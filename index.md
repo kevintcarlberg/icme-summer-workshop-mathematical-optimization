@@ -3,16 +3,29 @@ layout: default
 ---
 
 # Workshop Description
-Mathematical optimization underpins many applications across science and engineering, as it provides a set of formal tools to compute the ‘best’ action, design, control, or model from a set of possibilities. In data science, machine learning, and artificial intelligence, mathematical optimization is the engine of model training and learning. This workshop will provide an overview of the key elements of this topic (unconstrained, constrained, convex optimization, optimization for model training), and will have a practical focus, with participants formulating and solving optimization problems early and often using standard modeling languages and solvers. By introducing common models from machine learning and other fields, this workshop aims to make participants comfortable with optimization tools so that they may use it for rapid prototyping and experimentation in their own work. Students should be comfortable with linear algebra, differential multivariable calculus, and basic probability and statistics. Experience with Python will be helpful, but not required.
+Mathematical optimization underpins many applications across science and
+engineering, as it provides a set of formal tools to compute the ‘best’
+action, design, control, or model from a set of possibilities. In data
+science, machine learning, and artificial intelligence, mathematical
+optimization is the engine of model training and learning. This workshop will
+provide an overview of the key elements of this topic (unconstrained,
+constrained, convex optimization, optimization for model training), and will
+have a practical focus, with participants formulating and solving optimization
+problems early and often using standard modeling languages and solvers. By
+introducing common models from machine learning and other fields, this
+workshop aims to make participants comfortable with optimization tools so that
+they may use it for rapid prototyping and experimentation in their own work.
+Students should be comfortable with linear algebra, differential multivariable
+calculus, and basic probability and statistics. Experience with Python will be
+helpful, but not required.
 
 Topics to be discussed in this workshop include:
-
-Formulating optimization problems
-Fundamentals of constrained and unconstrained optimization
-Convex optimization
-Optimization methods for model fitting in machine learning
-Optimization in Python using SciPy and CVXPY
-In-depth Jupyter Notebook examples from machine learning, statistics, and other fields
+* Formulating optimization problems
+* Fundamentals of constrained and unconstrained optimization
+* Convex optimization
+* Optimization methods for model fitting in machine learning
+* Optimization in Python using SciPy and CVXPY
+* In-depth Jupyter Notebook examples from machine learning, statistics, and other fields.
 
 ## About the Instructor
 
