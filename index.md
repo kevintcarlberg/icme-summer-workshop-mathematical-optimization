@@ -22,12 +22,12 @@ helpful, but not required.
 
 Topics to be discussed in this workshop include:
 
-	* Formulating optimization problems
-	* Fundamentals of constrained and unconstrained optimization
-	* Convex optimization
-	* Optimization methods for model fitting in machine learning
-	* Optimization in Python using SciPy and CVXPY
-	* In-depth Jupyter Notebook examples from machine learning, statistics, and other fields.
+* Formulating optimization problems
+* Fundamentals of constrained and unconstrained optimization
+* Convex optimization
+* Optimization methods for model fitting in machine learning
+* Optimization in Python using SciPy and CVXPY
+* In-depth Jupyter Notebook examples from machine learning, statistics, and other fields.
 
 ## About the Instructor
 
