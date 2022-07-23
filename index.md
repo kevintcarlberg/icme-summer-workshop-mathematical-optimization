@@ -21,6 +21,7 @@ calculus, and basic probability and statistics. Experience with Python will be
 helpful, but not required.
 
 Topics to be discussed in this workshop include:
+
 	* Formulating optimization problems
 	* Fundamentals of constrained and unconstrained optimization
 	* Convex optimization
@@ -59,13 +60,13 @@ get started:
 
   - Go to [drive.google.com](drive.google.com) and log in with your Google
   account
-- Go to [https://tinyurl.com/icmemathopt](https://tinyurl.com/icmemathopt) to access
+- Go to [https://tinyurl.com/icmemathopt2022](https://tinyurl.com/icmemathopt2022) to access
   the shared Google Drive folder
 - Click on "ICME Summer Workshop 2022 - Introduction to Mathematical Optimization" > "Add Shortcut to Drive".
  
 **Step 2: Try out the Notebooks!**
 
-  - In Google Drive, go to "ICME Summer Workshop 2021 - Introduction To Mathematical
+  - In Google Drive, go to "ICME Summer Workshop 2022 - Introduction To Mathematical
   Optimization" > "Notebooks"
 - Double click any notebook
 - You now have three options:
@@ -82,16 +83,17 @@ get started:
   - Introduction to optimization
   - Unconstrained optimization
 
-#### Session 2 (Friday, August 5, 2:30 - 4:00 P.M. PST)
+#### Session 2 (Friday, August 5, 2:45 - 4:00 P.M. PST)
   - Optimization in Python
   - Constrained optimization
 
-#### Session 3 (Monday, August 8, 1:00 - 2:30 P.M. PST)
+#### Session 3 (Monday, August 8, 1:00 - 2:15 P.M. PST)
   - Optimization for machine learning
 
 #### Session 4 (Monday, August 8, 2:30 - 4:00 P.M. PST)
   - Convex optimization
   - Convex optimization examples
+	- Closing Q&A
 
 
 ## Additional Resources
@@ -105,11 +107,10 @@ Here are some additional resources for various topics:
   - Class notes and lectures for
     [EE364a](http://web.stanford.edu/class/ee364a/),
     [EE364b](http://web.stanford.edu/class/ee364b/) online
-  - [CVX101
-    MOOC](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about)
+	- [CVX101
+		MOOC](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about)
 - P.E. Gill, W. Murray, and M.H. Wright, *Practical Optimization*, London,
   Academic Press, 1981.
 - Bottou, L., Curtis, F.E. and Nocedal, J., 2018. Optimization methods for
   large-scale machine learning. SIAM Review, 60(2), pp.223-311. [(available on
-  the arXiv)](https://arxiv.org/abs/1606.04838)
-  - Advanced review article
+  the arXiv)](https://arxiv.org/abs/1606.04838) (Advanced review article)
