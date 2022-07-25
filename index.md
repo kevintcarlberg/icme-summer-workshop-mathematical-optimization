@@ -52,7 +52,7 @@ engineering.
 
 **Step 1: Join the class Piazza**
 We will be using Piazza for questions and answers. Piazza will allow you to ask questions to the instructors before or during the class. Here is how to sign up:
-- Go to the [class signup page](piazza.com/stanford/spring2022/icmeswml).
+- Go to the [class signup page](https://piazza.com/stanford/spring2022/icmeswml).
 - Join with access code icme2022optimization.
 - You may need to provide an email address if you do not already have a Piazza account
 Once you've joined the class, you can submit questions by clicking the blue **New Post** button at the top left of the webpage.
@@ -99,7 +99,7 @@ The Python Notebooks in this course’s shared Drive contain real-world examples
 #### Session 4 (Monday, August 8, 2:30 - 4:00 P.M. PST)
   - Convex optimization
   - Convex optimization examples
-	- Closing Q&A
+  - Closing Q&A
 
 
 ## Additional Resources
