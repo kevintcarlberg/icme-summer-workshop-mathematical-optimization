@@ -50,23 +50,30 @@ engineering.
 
 ## Pre-workshop Checklist
 
-[Google Colab](https://colab.research.google.com/) is a free cloud-based
-Jupyter Notebook environment. The Python Notebooks in this course’s shared
-Drive contain real-world examples of optimization problems that you can
-explore and study by running them using Google Colab. Here are the steps to
-get started:
- 
-**Step 1: Add the shared Google Drive folder to your personal account** 
+**Step 1: Join the class Piazza**
+We will be using Piazza for questions and answers. Piazza will allow you to ask questions to the instructors before or during the class. Here is how to sign up:
+- Go to the [class signup page](https://piazza.com/stanford/spring2022/icmeswml). You should see a website that looks like the image below:
+![Piazza Signup Page](/assets/img/piazza_signup_page.PNG)
+- **The listed term for the course is Spring 2022, which is incorrect. However, this is still the correct class** (there was a clerical error made when setting up the class). Join the class by entering in Class Access Code icme2022optimization.
+- You may need to provide an email address if you do not already have a Piazza account
+Once you've joined the class, you can submit questions by clicking the blue **New Post** button at the top left of the webpage.
 
-  - Go to [drive.google.com](drive.google.com) and log in with your Google
+**Step 2: Fill out the pre-course survey**
+Please fill out this quick 2-minute [pre-course survey](https://forms.gle/8P4392TUFTVW5pMp7)! You will need so sign in with your email address to fill out this form.
+Filling this out will help us tweak the course contents to meet your needs!
+
+**Step 3: Access the course contents**
+The course slides and tutorials are available via Google Drive. Here is how to access the course contents:
+- Go to [drive.google.com](drive.google.com) and log in with your Google
   account
 - Go to [https://tinyurl.com/icmemathopt2022](https://tinyurl.com/icmemathopt2022) to access
   the shared Google Drive folder
 - Click on "ICME Summer Workshop 2022 - Introduction to Mathematical Optimization" > "Add Shortcut to Drive".
- 
-**Step 2: Try out the Notebooks!**
 
-  - In Google Drive, go to "ICME Summer Workshop 2022 - Introduction To Mathematical
+**Step 4: Try out the tutorials for yourself!**
+The class tutorials are hosted on Google Collab. [Google Colab](https://colab.research.google.com/) is a free cloud-based Jupyter Notebook environment.
+The Python Notebooks in this course’s shared Drive contain real-world examples of optimization problems that you can explore and study by running them using Google Colab. Here are the steps to get started:
+- In Google Drive, go to "ICME Summer Workshop 2022 - Introduction To Mathematical
   Optimization" > "Notebooks"
 - Double click any notebook
 - You now have three options:
@@ -93,7 +100,7 @@ get started:
 #### Session 4 (Monday, August 8, 2:30 - 4:00 P.M. PST)
   - Convex optimization
   - Convex optimization examples
-	- Closing Q&A
+  - Closing Q&A
 
 
 ## Additional Resources
