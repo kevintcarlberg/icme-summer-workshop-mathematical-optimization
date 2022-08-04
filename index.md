@@ -53,7 +53,7 @@ engineering.
 **Step 1: Join the class Piazza**
 We will be using Piazza for questions and answers. Piazza will allow you to ask questions to the instructors before or during the class. Here is how to sign up:
 - Go to the [class signup page](https://piazza.com/stanford/spring2022/icmeswml). You should see a website that looks like the image below:
-![Piazza Signup Page](/assets/img/piazza_signup_page.PNG){:style="max-width:75%;"}
+![Piazza Signup Page](/assets/img/piazza_signup_page.PNG)
 - **The listed term for the course is Spring 2022, which is incorrect. However, this is still the correct class** (there was a clerical error made when setting up the class). Join the class by entering in Class Access Code icme2022optimization.
 - You may need to provide an email address if you do not already have a Piazza account
 Once you've joined the class, you can submit questions by clicking the blue **New Post** button at the top left of the webpage.
