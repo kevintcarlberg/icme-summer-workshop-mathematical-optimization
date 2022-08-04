@@ -103,12 +103,11 @@ Here are some additional resources for various topics:
 - J. Nocedal and S. J. Wright. *Numerical Optimization*, Springer, 1999.
 - S. Boyd and L. Vadenberghe. *Convex Optimization*, Cambridge University
   Press, 2004. [(available online)](http://stanford.edu/~boyd/cvxbook/)
-  - Excellent lectures by S.\ Boyd online
+  - Excellent lectures by S. Boyd online
   - Class notes and lectures for
     [EE364a](http://web.stanford.edu/class/ee364a/),
     [EE364b](http://web.stanford.edu/class/ee364b/) online
-	- [CVX101
-		MOOC](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about)
+	- [CVX101 MOOC](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about)
 - P.E. Gill, W. Murray, and M.H. Wright, *Practical Optimization*, London,
   Academic Press, 1981.
 - Bottou, L., Curtis, F.E. and Nocedal, J., 2018. Optimization methods for
