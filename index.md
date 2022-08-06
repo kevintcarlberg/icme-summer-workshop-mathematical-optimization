@@ -33,7 +33,7 @@ Topics to be discussed in this workshop include:
 
 ![Kevin Carlberg](/assets/img/profile.jpg){:style="max-width:30%;"}
 
-[Kevin Carlberg](kevintcarlberg.net) is an AI Research Science Manager at Meta
+[Kevin Carlberg](https://kevintcarlberg.net) is an AI Research Science Manager at Meta
 Reality Labs and an Affiliate Associate Professor of Applied Mathematics and
 Mechanical Engineering at the University of Washington. He leads a research
 team focused on enabling the future of augmented and virtual reality through
@@ -64,7 +64,7 @@ Filling this out will help us tweak the course contents to meet your needs!
 
 **Step 3: Access the course contents**
 The course slides and tutorials are available via Google Drive. Here is how to access the course contents:
-- Go to [drive.google.com](drive.google.com) and log in with your Google
+- Go to [https://drive.google.com](https://drive.google.com) and log in with your Google
   account
 - Go to [https://tinyurl.com/icmemathopt2022](https://tinyurl.com/icmemathopt2022) to access
   the shared Google Drive folder
@@ -102,6 +102,8 @@ The Python Notebooks in this course’s shared Drive contain real-world examples
   - Convex optimization examples
   - Closing Q&A
 
+## Workshop Recordings
+#### [Day 1 (Monday, August 5)](https://stanford.zoom.us/rec/share/_ywxfX_zDiEELl91GqXnInUqg112R0hqyOaY1z_FwqROd9oYaFdbHWpbXwRKc7xS.nQaNYQtMeXAJemf2?startTime=1659728459000)
 
 ## Additional Resources
 
