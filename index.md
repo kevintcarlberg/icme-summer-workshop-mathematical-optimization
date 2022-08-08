@@ -92,9 +92,9 @@ The Python Notebooks in this course’s shared Drive contain real-world examples
 
 #### Session 2 (Friday, August 5, 2:45 - 4:00 P.M. PST)
   - Optimization in Python
-  - Constrained optimization
 
 #### Session 3 (Monday, August 8, 1:00 - 2:15 P.M. PST)
+  - Constrained optimization
   - Optimization for machine learning
 
 #### Session 4 (Monday, August 8, 2:30 - 4:00 P.M. PST)
@@ -103,7 +103,7 @@ The Python Notebooks in this course’s shared Drive contain real-world examples
   - Closing Q&A
 
 ## Workshop Recordings
-#### [Day 1 (Monday, August 5)](https://stanford.zoom.us/rec/share/_ywxfX_zDiEELl91GqXnInUqg112R0hqyOaY1z_FwqROd9oYaFdbHWpbXwRKc7xS.nQaNYQtMeXAJemf2?startTime=1659728459000)
+#### [Day 1 (Friday, August 5)](https://stanford.zoom.us/rec/share/_ywxfX_zDiEELl91GqXnInUqg112R0hqyOaY1z_FwqROd9oYaFdbHWpbXwRKc7xS.nQaNYQtMeXAJemf2?startTime=1659728459000)
 
 ## Additional Resources
 
