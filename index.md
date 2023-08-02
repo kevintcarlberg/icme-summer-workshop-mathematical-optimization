@@ -33,8 +33,8 @@ Topics to be discussed in this workshop include:
 
 ![Kevin Carlberg](/assets/img/profile.jpg){:style="max-width:30%;"}
 
-[Kevin Carlberg](https://kevintcarlberg.net) is an AI Research Science Manager at Meta
-Reality Labs and an Affiliate Associate Professor of Applied Mathematics and
+[Kevin Carlberg](https://kevintcarlberg.net) is a Director of AI Research Science at Meta
+and an Affiliate Associate Professor of Applied Mathematics and
 Mechanical Engineering at the University of Washington. He leads a research
 team focused on enabling the future of augmented and virtual reality through
 AI-driven innovations. His individual research combines concepts from machine
@@ -86,20 +86,24 @@ The Python Notebooks in this course’s shared Drive contain real-world examples
 
 ## Schedule
 
-#### Session 1 (Friday, August 5, 1:00 - 2:30 P.M. PST)
-  - Introduction to optimization
-  - Unconstrained optimization
+  - [Course logistics](https://drive.google.com/file/d/10IF25oIsemUeNGhnkbytSVtufpP9oY_R/view?usp=share_link)
 
-#### Session 2 (Friday, August 5, 2:45 - 4:00 P.M. PST)
-  - Optimization in Python
+#### Session 1 
+  - [Introduction to
+    optimization](https://drive.google.com/file/d/1oFUgUsI7Ep1dHl1TRhJSdusatYAhK5n9/view?usp=share_link)
+  - [Unconstrained
+    optimization](https://drive.google.com/file/d/1gtlN5LZmbsQmYeiDqVdkrBRXYPDE1Ay_/view?usp=share_link)
 
-#### Session 3 (Monday, August 8, 1:00 - 2:15 P.M. PST)
-  - Constrained optimization
-  - Optimization for machine learning
+#### Session 2
+  - [Optimization in Python](https://drive.google.com/file/d/16f2TiOzX74j5LPINS4uVa96btCZ4DhTr/view?usp=share_link)
 
-#### Session 4 (Monday, August 8, 2:30 - 4:00 P.M. PST)
-  - Convex optimization
-  - Convex optimization examples
+#### Session 3
+  - [Constrained optimization](https://drive.google.com/file/d/1NwL_IeBNON12-P7ucZpum7uhVwJp_gYc/view?usp=share_link)
+  - [Optimization for machine learning](https://drive.google.com/file/d/1PAFVGtp3vXOeYKFlj6XFwBxmZYZsjpJk/view?usp=share_link)
+
+#### Session 4 
+  - [Convex optimization](https://drive.google.com/file/d/1UATf4Fb8bwkFpK3tNOcC-U8RRklt9eyt/view?usp=share_link)
+  - [Convex optimization examples](https://drive.google.com/file/d/1k4U4Y6SwnslQEnApeU7lMWXCy6so2e7_/view?usp=share_link)
   - Closing Q&A
 
 ## Workshop Recordings
